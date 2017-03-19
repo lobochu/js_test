@@ -1,0 +1,11 @@
+[{
+    "mount": {
+        "dir": "page",
+        "uri": "/page"
+    },
+    "mount": {
+        "dir": "./",
+        "uri": "/"
+    }
+
+}]
